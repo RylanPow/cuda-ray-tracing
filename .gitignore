@@ -1,0 +1,35 @@
+*.exe
+*.log
+*.tmp
+main
+
+# build folders
+ipch/
+*.VC.db
+*.VC.VC.opendb
+
+# CUDA intermediates
+*.obj
+*.pdb
+*.exe
+*.ilk
+*.ptx
+*.cubin
+*.fatbin
+*.linkinfo
+*.tlog
+*.log
+*.cu.obj
+*.cu.cpp
+*.cu.lib
+
+# VS temporary files
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.cache
+*.aps
+*.ncb
+*.opendb
+*.vs
